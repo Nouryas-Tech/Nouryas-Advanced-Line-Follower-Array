@@ -27,7 +27,7 @@ Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](فيديو الإنزال)** - Basic information on how to install an Arduino library.
-* **[Product Repository](https://egypt.souq.com/eg-en/advanced-line-follower-sensor-x5-dual-analog-digital-black-white-line-106046805/i/)** - Main repository (including hardware files) for the Advanced Line Follower Array.
+* **[Product Repository](https://github.com/Nouryas-Tech/Nouryas-Advanced-Line-Follower-Array)** - Main repository (including hardware files) for the Advanced Line Follower Array.
 * **[Advanced Line Follower Array Hookup Guide](فيديو الإنزال)** - Basic hookup guide for the *Nouryas Tech Advanced Line Follower Array*.
 
 Products that use this Library 
