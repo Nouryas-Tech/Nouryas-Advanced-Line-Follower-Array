@@ -31,8 +31,8 @@ void Adv_Line_Follower::go() {
         _right_wieght = constrain(_right_wieght, 0, _MAX_PWM_SPEED);
 
         // for sharp corners 
-        if (_left_wieght > (_MAX_PWM_SPEED * 0.8)) _right_wieght = _right_wieght * 0.4;
-        if (_right_wieght > (_MAX_PWM_SPEED * 0.8)) _left_wieght = _left_wieght * 0.4;
+        if (_left_wieght > (_MAX_PWM_SPEED * 0.8)) _right_wieght = _right_wieght * 0.3;
+        if (_right_wieght > (_MAX_PWM_SPEED * 0.8)) _left_wieght = _left_wieght * 0.3;
 
         if (_LineColor == LOW) // Black Line =LOW 
         {
