@@ -12,7 +12,7 @@ This library for the Advanced Line Follower Array allows the following functions
 
 * Follow Black or White Line.
 * gives you two strategies for sensing , digital or analog.
-* Controlling the wheels speed from 0% to 100%. 
+* Controlling the wheels' speed from 0% to 100%. 
 
 Repository Contents
 -------------------
