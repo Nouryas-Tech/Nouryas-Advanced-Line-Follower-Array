@@ -26,9 +26,9 @@ Repository Contents
 Documentation
 --------------
 
-* **[Installing an Arduino Library Guide](فيديو الإنزال)** - Basic information on how to install an Arduino library.
+* **[Installing an Arduino Library Guide](https://youtu.be/S71mDB1JpqE)** - Basic information on how to install an Arduino library.
 * **[Product Repository](https://github.com/Nouryas-Tech/Nouryas-Advanced-Line-Follower-Array)** - Main repository (including hardware files) for the Advanced Line Follower Array.
-* **[Advanced Line Follower Array Hookup Guide](فيديو الإنزال)** - Basic hookup guide for the *Nouryas Tech Advanced Line Follower Array*.
+* **[Advanced Line Follower Array Hookup Guide](https://youtu.be/S71mDB1JpqE)** - Basic hookup guide for the *Nouryas Tech Advanced Line Follower Array*.
 
 Products that use this Library 
 ---------------------------------
