@@ -11,8 +11,8 @@ Nouryas Tech Advanced Line Follower Array, Arduino Library
 This library for the Advanced Line Follower Array allows the following functions:
 
 * Follow Black or White Line.
-* gives you two stratigies for sensing , digital or analog.
-* Controling the wheels speed from 0% to 100%. 
+* gives you two strategies for sensing , digital or analog.
+* Controlling the wheels speed from 0% to 100%. 
 
 Repository Contents
 -------------------
