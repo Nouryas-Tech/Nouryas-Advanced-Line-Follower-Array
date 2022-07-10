@@ -4,7 +4,8 @@
 class Adv_Line_Follower {
 public:
     Adv_Line_Follower(bool LineColor, bool A_D_Scan, uint8_t PWM_R_EN, uint8_t PWM_L_EN, uint8_t MAX_PWM_SPEED);
-    void  go();
+    void  Go();
+    void  Stopp();
 private:
     uint8_t _temp;
     bool _LineColor;
