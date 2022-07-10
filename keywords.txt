@@ -10,8 +10,7 @@ Adv_Line_Follower	KEYWORD1
 # Methods and Functions
 ###################################################################
 
-Go  KEYWORD2
-Stopp KEYWORD2 
+go	KEYWORD2
 Adv_Line_Follower	KEYWORD2
 
 ##################################################################

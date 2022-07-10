@@ -16,7 +16,7 @@ Adv_Line_Follower::Adv_Line_Follower(bool LineColor, bool A_D_Scan, uint8_t PWM_
     pinMode(_PWM_L_EN, OUTPUT);
 }
 
-void Adv_Line_Follower::Go() {
+void Adv_Line_Follower::go() {
     if (_A_D_Scan == LOW)   // Analog Scan = LOW  
     {
         _A0 = map(analogRead(A0), 0, 850, 0, (_MAX_PWM_SPEED * 0.7));
@@ -120,8 +120,4 @@ void Adv_Line_Follower::Go() {
             break;
         }
     }
-}
-void Adv_Line_Follower::Stopp() {
-    analogWrite(_PWM_R_EN, 0);
-    analogWrite(_PWM_L_EN, 0);
 }
