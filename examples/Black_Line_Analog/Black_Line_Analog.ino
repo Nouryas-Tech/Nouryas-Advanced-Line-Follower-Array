@@ -23,5 +23,5 @@ Adv_Line_Follower my_Car(0,0,6,5,75);
 void setup() {
 }
 void loop() {
-   my_Car.go();
+   my_Car.Go();
 }
